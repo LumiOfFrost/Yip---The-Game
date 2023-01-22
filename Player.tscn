@@ -1,0 +1,40 @@
+[gd_scene load_steps=7 format=3 uid="uid://bcarj658v68jy"]
+
+[ext_resource type="Script" path="res://Player.cs" id="1_0wprj"]
+[ext_resource type="Material" uid="uid://owhku188lw1f" path="res://PlayerMaterial.tres" id="2_ik7u5"]
+
+[sub_resource type="CapsuleMesh" id="CapsuleMesh_ijy13"]
+material = ExtResource("2_ik7u5")
+radius = 0.3
+height = 1.5
+
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_ygvus"]
+radius = 0.3
+height = 1.5
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_njt3x"]
+transparency = 1
+albedo_color = Color(0, 0.882353, 1, 0.67451)
+metallic_specular = 1.0
+roughness = 0.32
+
+[sub_resource type="CapsuleMesh" id="CapsuleMesh_jo6mv"]
+material = SubResource("StandardMaterial3D_njt3x")
+radius = 0.15
+height = 0.6
+
+[node name="Player" type="CharacterBody3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.75, 0)
+collision_layer = 2
+collision_mask = 3
+script = ExtResource("1_0wprj")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+mesh = SubResource("CapsuleMesh_ijy13")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+shape = SubResource("CapsuleShape3D_ygvus")
+
+[node name="MeshInstance3D2" type="MeshInstance3D" parent="."]
+transform = Transform3D(-4.37114e-08, -1, 0, 1, -4.37114e-08, 0, 0, 0, 1, 0, 0.337385, -0.282384)
+mesh = SubResource("CapsuleMesh_jo6mv")

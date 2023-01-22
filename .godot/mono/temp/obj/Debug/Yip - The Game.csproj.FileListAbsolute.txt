@@ -1,0 +1,17 @@
+C:\Users\Runic\Documents\Projects\Yip - The Game\.godot\mono\temp\bin\Debug\Yip - The Game.deps.json
+C:\Users\Runic\Documents\Projects\Yip - The Game\.godot\mono\temp\bin\Debug\Yip - The Game.runtimeconfig.json
+C:\Users\Runic\Documents\Projects\Yip - The Game\.godot\mono\temp\bin\Debug\Yip - The Game.dll
+C:\Users\Runic\Documents\Projects\Yip - The Game\.godot\mono\temp\bin\Debug\Yip - The Game.pdb
+C:\Users\Runic\Documents\Projects\Yip - The Game\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\Runic\Documents\Projects\Yip - The Game\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\Runic\Documents\Projects\Yip - The Game\.godot\mono\temp\obj\Debug\Yip - The Game.csproj.AssemblyReference.cache
+C:\Users\Runic\Documents\Projects\Yip - The Game\.godot\mono\temp\obj\Debug\Yip - The Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Runic\Documents\Projects\Yip - The Game\.godot\mono\temp\obj\Debug\Yip - The Game.AssemblyInfoInputs.cache
+C:\Users\Runic\Documents\Projects\Yip - The Game\.godot\mono\temp\obj\Debug\Yip - The Game.AssemblyInfo.cs
+C:\Users\Runic\Documents\Projects\Yip - The Game\.godot\mono\temp\obj\Debug\Yip - The Game.csproj.CoreCompileInputs.cache
+C:\Users\Runic\Documents\Projects\Yip - The Game\.godot\mono\temp\obj\Debug\Yip - The Game.csproj.CopyComplete
+C:\Users\Runic\Documents\Projects\Yip - The Game\.godot\mono\temp\obj\Debug\Yip - The Game.dll
+C:\Users\Runic\Documents\Projects\Yip - The Game\.godot\mono\temp\obj\Debug\refint\Yip - The Game.dll
+C:\Users\Runic\Documents\Projects\Yip - The Game\.godot\mono\temp\obj\Debug\Yip - The Game.pdb
+C:\Users\Runic\Documents\Projects\Yip - The Game\.godot\mono\temp\obj\Debug\Yip - The Game.genruntimeconfig.cache
+C:\Users\Runic\Documents\Projects\Yip - The Game\.godot\mono\temp\obj\Debug\ref\Yip - The Game.dll

@@ -1,0 +1,11 @@
+0b7126e0c6e86d3ec295a72f5aa6e0bd
+::res://::1674364383
+Camera.cs::CSharpScript::-1::1674359669::0::1::::<><>::
+icon.svg::CompressedTexture2D::3661144081979837241::1674327594::1674327609::1::::<><>::
+Player.cs::CSharpScript::-1::1674359604::0::1::::<><>::
+Player.tscn::PackedScene::2527848308088015670::1674361291::0::1::::<><>::res://Player.cs<>uid://owhku188lw1f
+PlayerMaterial.tres::StandardMaterial3D::1028504090586027097::1674360540::0::1::::<><>::uid://bsc07aigrojth
+TestMaterial.tres::StandardMaterial3D::5691066998479152180::1674360706::0::1::::<><>::uid://w3takf57gaqx
+TestRoom.tscn::PackedScene::2311519766478110632::1674361291::0::1::::<><>::uid://w3takf57gaqx<>uid://bcarj658v68jy<>res://Player.cs<>res://Camera.cs<>uid://bsc07aigrojth<>uid://cnc2bosmj46yq
+tex_testground_01.png::CompressedTexture2D::1603111294376534375::1674341259::1674341260::1::::<><>::
+tex_testplayer_01.png::CompressedTexture2D::3655523707564248689::1674347584::1674347585::1::::<><>::

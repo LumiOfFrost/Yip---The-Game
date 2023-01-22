@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bdT0ifcO1T36T5J4XyPlN3sVzJ5a41ExauEh9XaGWYJ51NqNlD1musalhKmgME5ycuJvr0jp0+Ki2UQBwRQDFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Runic\\Documents\\Projects\\Yip - The Game\\Yip - The Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Runic\\.nuget\\packages\\godot.sourcegenerators\\4.0.0-beta.13\\godot.sourcegenerators.4.0.0-beta.13.nupkg.sha512",
+    "C:\\Users\\Runic\\.nuget\\packages\\godotsharp\\4.0.0-beta.13\\godotsharp.4.0.0-beta.13.nupkg.sha512",
+    "C:\\Users\\Runic\\.nuget\\packages\\godotsharpeditor\\4.0.0-beta.13\\godotsharpeditor.4.0.0-beta.13.nupkg.sha512"
+  ],
+  "logs": []
+}

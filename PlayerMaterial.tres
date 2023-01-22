@@ -1,0 +1,12 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://owhku188lw1f"]
+
+[ext_resource type="Texture2D" uid="uid://bsc07aigrojth" path="res://tex_testplayer_01.png" id="1_rp4cv"]
+
+[resource]
+albedo_color = Color(0.760784, 0.0313726, 0.223529, 1)
+albedo_texture = ExtResource("1_rp4cv")
+metallic = 0.28
+metallic_specular = 0.28
+roughness = 0.69
+uv1_scale = Vector3(5, 5, 5)
+texture_filter = 0
